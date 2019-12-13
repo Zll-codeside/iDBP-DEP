@@ -74,8 +74,6 @@ iDBP-DEP
 │   │   │  
 │   └───Read_Text_files_PSSM.m
 │   
-└───Independent_test_workspace
-│   │   DDE_DBT_DWT_NMBAC_testworkspace.mat
 │   
 └───PDB594_workspace
 |   │   DDE_DBT_DWT_NMBAC_594_workspace.mat
@@ -99,5 +97,5 @@ The feature Data used in our paper from ~/Data/PDB186(PDB1075/PDB594)/feature Da
 
 **Train models with feature Data**
 We provide a train_1075_demo.txt (~/Code/predictor/train_1075_demo.txt) to help you use the iDBP-DEP to detect DNA-binding proteins.
-And you can also see the great performance of iDBP-DEP in the different datasets.
+And you can also see the great performance of iDBP-DEP on the different datasets in different workspace.
 >>>>>>> iDEP
